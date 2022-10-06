@@ -1,0 +1,7 @@
+testRunner\FlightTest.class
+pageSteps\FlightBookingSteps.class
+pageSteps\RegisterPageSteps.class
+utilities\ExcelReader.class
+pages\RegisterPage.class
+testRunner\RegisterPageTest.class
+pages\FlightBookingPage.class
